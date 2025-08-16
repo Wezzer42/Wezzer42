@@ -17,7 +17,7 @@ Also trained in **C#/.NET & C++**, with 8+ years in automation engineering that 
 - Useful automation scripts & integrations.
 
 ##  Certifications
-I'm a certified Full-Stack Developer ([certificate.pdf]([https://coursera.org/share/0022270b88cca55d0480fb5d8c82dc6e]) — check out the file.
+I'm a certified Full-Stack Developer [📜 View Certificate](https://coursera.org/share/0022270b88cca55d0480fb5d8c82dc6e) — check out the file.
 
 ---
 
